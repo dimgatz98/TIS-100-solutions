@@ -2,7 +2,7 @@
 
 My TIS-100 solutions, recorded from in-game screenshots with the code, node layout, and a short explanation of each program.
 
-**19 solutions documented so far.** Two more entries are planned as I work through the remaining problems. These are snapshots of my implementations; I am not presenting them as optimal solutions.
+**20 solutions documented so far.** One more problem is still to come. These are snapshots of my implementations; I am not presenting them as optimal solutions.
 
 ## Solution index
 
@@ -27,6 +27,7 @@ My TIS-100 solutions, recorded from in-game screenshots with the code, node layo
 | 017 | [Histogram Viewer](solutions/017-histogram-viewer.md) | Stream delimiters and histogram coordinates |
 | 018 | [Signal Window Filter](solutions/018-signal-window-filter.md) | Sliding windows and retained history |
 | 019 | [Signal Divider](solutions/019-signal-divider.md) | Repeated subtraction and quotient/remainder protocol |
+| 020 | [Sequence Indexer](solutions/020-sequence-indexer.md) | Indexed lookup and stream coordination |
 
 Entry numbers follow this archive's order, not official puzzle IDs. Each link opens a self-contained write-up with four sections:
 
@@ -57,6 +58,7 @@ solutions/
   002-signal-amplifier.md
   ...
   019-signal-divider.md
+  020-sequence-indexer.md
   assets/
     001-self-test-diagnostic.png
     ...
